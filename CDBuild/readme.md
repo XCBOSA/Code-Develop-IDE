@@ -1,6 +1,7 @@
 # CDBuild - 自动化编译你的项目
 
 哇 你看上面的小星星好好看 好想要！  
+Awasome, the star on the top right is soo beautiful, I want really!
 
 ### 文件命名规范
 默认当目录中存在一个cdbuild文件时，对这个目录执行cdbuild指令会调用cdbuild文件。  
